@@ -1,0 +1,22 @@
+{
+  "name": "react-laleniko",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mkdir": "mkdir build",
+    "delete": "rmdir build",
+    "say": "echo Hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/React-laleniko.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/React-laleniko/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/React-laleniko#readme"
+}
