@@ -6,11 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "mkdir": "mkdir build",
-<<<<<<< HEAD
     "delete": "rm -R build",
-=======
-    "delete": "rmdir build",
->>>>>>> 0679004bb999191cc1089287b38a54110dbd0df4
     "say": "echo Hello"
   },
   "repository": {
